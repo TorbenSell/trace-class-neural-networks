@@ -6,7 +6,7 @@ For the HalfCheetah experiments, one needs a MuJoCo licence (free for students),
 
 Data can be created using the _create_data notebooks found in the create_data directory.
 
-Results can be shown using the _results notebooks, also found in the results directory.
+Results can be shown using the _results notebooks, found in the results directory.
 
 Please get in touch with me if you have any questions or struggle to get the code running.
 
